@@ -5,7 +5,9 @@
 - ⚡ Fun fact: I speak two languages fluently
 
 run this to connect vscode to github
+
 git config --global user.email "abdallahdenboba@gmail.com"
+
 git config --global user.name "AbdallahDenboba"
 
 <!---
